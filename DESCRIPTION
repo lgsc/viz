@@ -1,7 +1,7 @@
 Package: viz
 Title: 
 Version: 0.0.0.9000
-Authors@R: person("Gustavo", "Sanchez", email = "lgsanchezconde@gmail.com", role = c("aut"))
+Authors@R: person("Gustavo", "Sanchez", email = "lgsanchezconde@gmail.com", role = c("aut", "cre"))
 Description:
 Depends: R (>= 3.3.0)
 License:
