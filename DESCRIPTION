@@ -1,0 +1,10 @@
+Package: viz
+Title: 
+Version: 0.0.0.9000
+Authors@R: person("lgsc")
+Description:
+Depends: R (>= 3.3.0)
+License:
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
